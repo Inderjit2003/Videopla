@@ -1,0 +1,26 @@
+
+.heading{
+    text-align: center;
+    margin-top: 30px;
+    color: rgb(58, 4, 4);
+}
+.container{
+    width: 400px;
+    height: 400px;
+}
+/* youtube.module.css */
+
+.cardContainer {
+    width: 400px;
+    height: 400px;
+}
+
+.card {
+    width: 18rem;
+    height: 100%;
+    margin-top: 2rem;
+    border-radius: 5px;
+}
+.cardbody{
+    height: 10rem;
+}
